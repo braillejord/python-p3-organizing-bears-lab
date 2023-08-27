@@ -1,0 +1,73 @@
+INSERT INTO bears (
+    name,
+    age,
+    sex,
+    color,
+    temperament,
+    alive
+)
+VALUES
+    (
+        "Mr. Chocolate",
+        12,
+        "M",
+        "brown",
+        "chill",
+        1
+    ),
+    (
+        "Rowdy",
+        5,
+        "M",
+        "black",
+        "hyper",
+        1
+    ),
+    (
+        "Tabitha",
+        4,
+        "F",
+        "brown",
+        "reserved",
+        0
+    ),
+    (
+        "Sergeant Brown",
+        10,
+        "M",
+        "brown",
+        "intense",
+        1
+    ),
+    (
+        "Melissa",
+        7,
+        "F",
+        "black",
+        "self-righteous",
+        1
+    ),
+    (
+        "Grinch",
+        3,
+        "M",
+        "black",
+        "sweet and sour",
+        1
+    ),
+    (
+        "Wendy",
+        15,
+        "F",
+        "brown",
+        "wise",
+        0
+    ),
+    (
+        NULL,
+        3,
+        "F",
+        "black",
+        "timid",
+        1
+    );
